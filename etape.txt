@@ -1,0 +1,26 @@
+Conception de l'architecture :
+Nous allons définir l'architecture globale de l'application, en décidant comment les différentes parties (frontend, backend) interagiront entre elles.
+
+Création du projet Angular :
+Nous allons créer la partie frontend de l'application en utilisant Angular, en mettant en place l'interface utilisateur pour l'authentification et la gestion des profils clients.
+
+Création du projet Laravel :
+Nous allons créer la partie backend de l'application en utilisant Laravel, en mettant en place l'authentification et les fonctionnalités de gestion des comptes utilisateurs et des fournisseurs.
+
+Intégration de l'authentification :
+Nous allons relier la partie frontend avec le backend pour gérer l'authentification des utilisateurs en tant qu'administrateur ou client.
+
+Mise en place de la gestion des comptes (Administrateur) :
+Nous allons développer les fonctionnalités permettant à l'administrateur de créer de nouveaux comptes administrateurs ou clients.
+
+Gestion de la base de données clients :
+Nous allons mettre en place les fonctionnalités d'import et d'export pour gérer la liste des fournisseurs.
+
+Personnalisation du profil client :
+Nous allons permettre aux clients de personnaliser leur profil en ajoutant une photo de profil et en téléchargeant un fichier PDF (CNIB / Passeport).
+
+Tests et corrections :
+Nous effectuerons des tests pour vérifier le bon fonctionnement de l'application et corriger les éventuels problèmes.
+
+Déploiement sur OVH :
+Une fois que l'application est prête, nous la déploierons sur les services d'OVH pour qu'elle soit accessible en ligne.
